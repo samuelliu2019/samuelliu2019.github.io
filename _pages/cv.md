@@ -12,6 +12,6 @@ redirect_from:
 
 You can view or download my CV using the button below:
 
-<p style="text-align: center;"> {/* Optional: Centers the button */}
+<p style="text-align: center;"> 
   <a href="{{ base_path }}/files/CV.pdf" class="btn btn--primary">Download CV as PDF</a>
 </p>
